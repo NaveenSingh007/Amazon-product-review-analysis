@@ -11,4 +11,4 @@ gain insights and trends
 insights on the performance of different products/ brands
 • Performed product clustering using K-means on product price and user rating
 to help with inventory management
-• Performed Time Series analy
+• Performed Time Series analysis
